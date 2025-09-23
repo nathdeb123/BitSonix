@@ -10,7 +10,7 @@ Play, save, and decode them back — a simple but powerful tool for **sound-base
 - Sound → Binary → Text decoding
 - Auto-save `.wav` files in `Documents/Sound-Doc/` with sequence & timestamp
 - Real-time playback of generated sound
-- Hacker-style CLI banner for aesthetic vibes
+- CLI banner for aesthetic vibes
 - **Smart folder handling**:  
   If `Documents/Sound-Doc` doesn’t exist, the tool asks if you want to create it.  
   - If **yes** → it creates the folder automatically.  
