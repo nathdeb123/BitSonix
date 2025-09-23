@@ -1,0 +1,6 @@
+numpy
+sounddevice
+soundfile
+scipy
+pyfiglet
+termcolor
