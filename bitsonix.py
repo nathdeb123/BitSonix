@@ -110,6 +110,3 @@ sf.write(file_path, signal, fs)
 # Decode back
 decoded_bits = tone_to_bits(signal)
 decoded_msg = bits_to_text(decoded_bits)
-
-print(colored(f"\n[INFO] Encoded message saved at: {file_path}", "green"))
-print(colored(f"[INFO] Decoded back message: {decoded_msg}", "cyan"))
